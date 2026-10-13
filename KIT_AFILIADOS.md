@@ -75,8 +75,12 @@ Para engajar e premiar os top afiliados no primeiro mês de lançamento:
 
 ---
 
-## 📂 Recursos Visuais (Criativos)
-* Logo Oficial em Alta Resolução (3D Tech Luxury)
-* Prints do Scorecard e Demonstração do Canvas
-* Acesse a pasta oficial de imagens no repositório:
+## 📂 Recursos Visuais & Vídeo da Campanha (Criativos Prontos)
+* 🎬 **Vídeo Oficial da Campanha (Formato Reels / Shorts 9:16 - MP4 com Locução e Legendas):**
+  Disponível na pasta local de marketing ou para download direto:
+  `marketing/video_campanha_viabilizai.mp4`
+* 🎨 **Logo Oficial em Alta Resolução (3D Tech Luxury):**
+  `logo.jpg`
+* 📊 **Scorecard e Demonstração do Canvas:**
+  Acesse todos os materiais no repositório oficial:
   https://github.com/rafaelleaomed/ai-canvas-pro
